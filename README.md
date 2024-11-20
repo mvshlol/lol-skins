@@ -1,6 +1,5 @@
 
 # League of Legends Skins Database
-
 > **If any skin crash / doesn't start your game, PLEASE, submit an issue to this repository. There's too many skins and we're not capable of testing everything.**
 
 Generated using [RitoSkin](https://github.com/nylish/ritoskin), from [Nylish](https://github.com/nylish), this repository aims to provide a centralized and easily accessible location for all in-game skins available for League of Legends. The skins are offered in formats compatible with custom skin applications.
@@ -13,30 +12,11 @@ The creator of this repository believes that with the implementation of predator
 
 > We hold that gaming culture should be inclusive and accessible, not just a privilege for those who can afford it.
 
-## Wanna contribute?
+## Additional contents
 
-> [!IMPORTANT]\
-> We're a small team, and we rely on Stars ⭐. Please consider starring this repository if it helped you in any way.
-
-But, if you want to go a little further, you can start by checking our [contribute](CONTRIBUTING.md) page.
-
-## Duplicated or imprecise chromas colors
-> [!IMPORTANT]\
-> Please notice that Riot Games doesn't have an endpoint to get the chromas names. Therefore, we created a tool to calculate an approximation to match the color. So some skins might have duplicated colors or a slightly mismatch, but they're all different from each other. Also some Mythic chroma can be just "Brown" or "Golden".
-
-## Are you a developer?
-
-Check the [developer-oriented repository](https://github.com/koobzaar/lol-skins-developer), with the champion and skins ID instead of names.
-
-## Donation
-
-Pix: b2763e55-ac97-4963-83e9-d9827caed2de
-
-Ko-Fi: https://ko-fi.com/koobzaar
-
-## Discord
-
-Check out our Discord server: https://discord.gg/4vqZ4EQC4Q
+- Check the [developer-oriented repository](https://github.com/koobzaar/lol-skins-developer), with the champion and skins ID instead of names.
+- Check out our Discord server: https://discord.gg/4vqZ4EQC4Q
+- Wanna donate? Check out my Ko-Fi page: https://ko-fi.com/koobzaar
 
 ## Disclaimer
 
