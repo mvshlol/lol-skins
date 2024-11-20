@@ -34,6 +34,10 @@ Pix: b2763e55-ac97-4963-83e9-d9827caed2de
 
 Ko-Fi: https://ko-fi.com/koobzaar
 
+## Discord
+
+Check out our Discord server: https://discord.gg/4vqZ4EQC4Q
+
 ## Disclaimer
 
 This project is not endorsed by Riot Games and does not represent the views or opinions of Riot Games or any of its affiliates. Riot Games and all related properties are trademarks or registered trademarks of Riot Games, Inc. Additionally, this repository is not affiliated with the moderators of r/LoLCustom.
